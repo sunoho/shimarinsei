@@ -1,4 +1,4 @@
-ƒKƒ“ƒKƒ“ƒIƒ“ƒ‰ƒCƒ“‚Ìƒ‚ƒoƒ}ƒX–Ÿ‰æ‚ðƒAƒŒ‚·‚éƒAƒŒB
-‘ÎÛ‚ÍAndroidƒy[ƒW‚Ì‚ÝB
+ã‚¬ãƒ³ã‚¬ãƒ³ã‚ªãƒ³ãƒ©ã‚¤ãƒ³ã®ãƒ¢ãƒãƒžã‚¹æ¼«ç”»ã‚’ã‚¢ãƒ¬ã™ã‚‹ã‚¢ãƒ¬ã€‚
+å¯¾è±¡ã¯Androidãƒšãƒ¼ã‚¸ã®ã¿ã€‚
 
 Copyright (c) 2012 sunoho
